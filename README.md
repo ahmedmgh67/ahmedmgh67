@@ -1,6 +1,6 @@
 ### Hi there, I'm Ahmed M. Gamal 👋
 
-## I'm a Software Engineer and Business Developer who founded and exited multiple startups!
+## I'm a Software Engineer and Business Developer who founded multiple startups and exited a one before!
 <!--
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
