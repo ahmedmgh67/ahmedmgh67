@@ -22,7 +22,10 @@
 
 ----
 
-<img align="left" alt="Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmedmgh67&show_icons=true&hide_border=false" />
+<!-- <img align="left" alt="Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmedmgh67&show_icons=true&hide_border=false" /> -->
+![ِAhmed Gamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmgh67&count_private=true&stars=true&include_all_commits=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmgh67&layout=compact&theme=radical)
+
 
 [website]: https://ahmedgamal.ga
 [twitter]: https://twitter.com/ahmedmghm
