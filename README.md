@@ -28,6 +28,6 @@
 
 
 [website]: https://ahmedgamal.ga
-[twitter]: https://twitter.com/ahmedmghm
+[twitter]: https://twitter.com/ahmed_m_gamal_h
 [instagram]: https://instagram.com/ahmed.m.gamal.h
 [linkedin]: https://linkedin.com/in/ahmed-m-gamal-727194106/
